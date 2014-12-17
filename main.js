@@ -152,7 +152,7 @@ $(document).on('ready', function(){
 		var total = bladeTotal + scTotal + asTotal + gelTotal;
 		console.log('hello')
 		$('#oneTimeTotal').text(makeDollars(total));
-		$('#monthlyTotal').text(makeDollars(total / months));
+		$('#monthlyTotal').text(makeDollars(total / months) + ' / month');
 		$('#recurringTotal').text(makeDollars(total));
 		$('#monthsSummary').text(months);
 
