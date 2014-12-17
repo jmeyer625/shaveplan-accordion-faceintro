@@ -213,18 +213,18 @@ p.product-title {
 }
 
 img.as {
-	height: 50%;
+	height: 175px;
 }
 img.sc {
-	height: 50%;
+	height: 175px;
 }
 
 img.fsg {
-	height: 50%;
+	height: 175px;
 }
 
 img.blades {
-	height: 50%;
+	height: 175px;
 }
 
 div.next-button {
@@ -273,7 +273,7 @@ img.plan-summary-image {
 div.section-summary {
 	text-align: right;
 	margin-right: 10px;
-	height: 7.5%;
+	height: 50px%;
 }
 
 div.summary-inactive {
