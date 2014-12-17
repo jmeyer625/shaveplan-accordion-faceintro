@@ -246,6 +246,7 @@ div.handle-selected {
 div.active-title {
 	background-color: #0A4D6D;
 	border: 1px solid white;
+	cursor: pointer;
 }
 
 div.active-title > * > *{
